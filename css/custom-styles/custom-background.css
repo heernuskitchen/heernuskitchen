@@ -1,0 +1,269 @@
+@charset "utf-8";
+
+/* CSS Document */
+
+/*
+ *Section  | Background Styling
+ */
+
+.bg-gray-base
+
+{
+	background : #9b9b9b;
+
+	fill : #9b9b9b;
+
+}
+
+.bg-gray
+
+{
+	background : #cbcbcb;
+
+	fill : #cbcbcb;
+
+}
+
+.bg-black
+
+{
+	background : #000 !important;
+
+	fill : #000 !important;
+
+}
+
+.bg-dark
+
+{
+	background : #1d1d1d;
+
+	fill : #1d1d1d;
+
+}
+
+/*
+ Reds
+ */
+
+.bg-red
+
+{
+	background : #ff0000 !important;
+
+	fill : #ff0000 !important;
+
+}
+
+.bg-tomato-red
+
+{
+	background : #a12312 !important;
+
+	fill : #a12312 !important;
+
+}
+
+.bg-coral-red
+
+{
+	background : #b32821 !important;
+
+	fill : #b32821 !important; 
+
+}
+
+.bg-flame-red
+
+{
+	background : #af2b1e !important;
+
+	fill : #af2b1e !important;
+
+}
+
+.bg-signal-red
+
+{
+	background : #a52019 !important;
+
+	fill : #a52019 !important;
+
+}
+
+.bg-carmine-red
+
+{
+	background : #a2231d !important;
+
+	fill : #a2231d !important;
+
+}
+
+.bg-ruby-orange
+
+{
+	background : #823e24 !important;
+
+	fill : #823e24!important;
+
+}
+
+
+
+.bg-ruby-red
+
+{
+	background : #823e24 !important;
+
+	fill : #823e24!important;
+
+}
+
+.bg-purple-red
+
+{
+	background : #75151e !important;
+
+	fill : #75151e !important;
+
+}
+
+
+.bg-ruby-red-opacity-90
+
+{
+	background : rgba(155, 17, 30, .9) !important;
+
+	fill : rgba(155, 17, 30, .9) !important;
+
+}
+
+
+.bg-dark .btn-link-primary:focus
+
+{
+	color : #e0ca8f;
+
+}
+
+.bg-dark .btn-link-primary:hover
+
+{
+	color : #fff;
+
+}
+
+.bg-image , .bg-counter , .bg-blog , .bg-404 , .bg-about , .bg-careers , .bg-chef-profile , .bg-menu , .bg-specials , .bg-clients , .bg-prices , .bg-coming , .bg-sitemap
+
+{
+	background-size : cover;
+
+	background-position : center center;
+
+}
+
+/*[class*='bg-'] *
+
+{
+	color : #fff;
+
+}
+
+[class*='bg-'] .border-dashed
+
+{
+	border-color : rgba(255, 255, 255, 0.4);
+
+}*/
+
+.bg-counter
+
+{
+	background-image : url(../images/index-bg-1.html);
+
+}
+
+.bg-counter .counter-wrap:before
+
+{
+	background-color : rgba(0, 0, 0, 0.3);
+
+}
+
+.bg-blog
+
+{
+	background-image : url(../images/bg-blog-1.html);
+
+}
+
+.bg-404
+
+{
+	background-image : url(../images/bg-404.html);
+
+}
+
+.bg-about
+
+{
+	background-image : url(../images/bg-about.html);
+
+}
+
+.bg-careers
+
+{
+	background-image : url(../images/bg-careers.html);
+
+}
+
+.bg-chef-profile
+
+{
+	background-image : url(../images/bg-chef-profile.html);
+
+}
+
+.bg-menu
+
+{
+	background-image : url(../images/bg-menu.html);
+
+}
+
+.bg-specials
+
+{
+	background-image : url(../images/bg-specials.html);
+
+}
+
+.bg-clients
+
+{
+	background-image : url(../images/bg-clients.html);
+
+}
+
+.bg-prices
+
+{
+	background-image : url(../images/bg-prices.html);
+
+}
+
+.bg-coming
+
+{
+	background-image : url(../images/bg-coming.html);
+
+}
+
+.bg-sitemap
+
+{
+	background-image : url(../images/bg-sitemap.html);
+
+}

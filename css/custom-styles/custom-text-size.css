@@ -1,0 +1,86 @@
+@charset "UTF-8";
+/* CSS Document */
+
+/*
+ *Section 2.5 | Responsive Text System
+ */
+
+
+.text-size-1 {
+	font-size: 1em;
+}
+
+
+.text-size-1-point-1 {
+	font-size: 1.1em;
+}
+
+.text-size-1125{
+	font-size: 1.125em;
+}
+
+.text-size-1-point-2 {
+	font-size: 1.2em;
+}
+
+.text-size-1-point-3 {
+	font-size: 1.3em;
+}
+
+.text-size-1-point-4 {
+	font-size: 1.4em;
+}
+
+.text-size-1-point-5 {
+	font-size: 1.5em;
+}
+
+.text-size-1-point-6 {
+	font-size: 1.6em;
+}
+
+.text-size-1-point-7 {
+	font-size: 1.7em;
+}
+
+
+.text-size-1-point-8 {
+	font-size: 1.8em;
+}
+
+.text-size-1-point-9 {
+	font-size: 1.9em;
+}
+
+.text-size-2 {
+	font-size: 2em;
+}
+
+
+.text-line-height-1{
+	line-height: 1;
+}
+
+
+.text-line-height-1-half{
+	line-height: 1.5;
+}
+
+.text-line-height-2{
+	line-height: 2;
+}
+
+
+.text-line-height-2-half{
+	line-height: 2.5;
+}
+
+
+.text-ruby-red{
+	color: #9B111E;
+}
+
+
+.text-white{
+	color: #FFFFFF;
+}
